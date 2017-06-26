@@ -1,24 +1,8 @@
-# README
+# Rails-Vue-Sandbox
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Rails with Vue.js sample application.
 
-Things you may want to cover:
+## references
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- original source: http://qiita.com/jnchito/items/30ab14ebf29b945559f6
+- test site: https://rails-vue-sandbox.herokuapp.com/
