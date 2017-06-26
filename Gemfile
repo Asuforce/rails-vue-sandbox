@@ -54,4 +54,5 @@ group :development do
   gem 'spring'
   gem 'spring-watcher-listen', '~> 2.0.0'
   gem 'foreman'
+  gem 'minitest-reporters',       '1.1.9'
 end
