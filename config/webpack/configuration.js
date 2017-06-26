@@ -10,7 +10,7 @@ const loadersDir = join(__dirname, 'loaders')
 const settings = safeLoad(readFileSync(configPath), 'utf8')[env.NODE_ENV]
 
 function removeOuterSlashes(string) {
-  return string.replace(/^\/*/, '').replace(/\/*$/, '')
+  return string.replace(/^\/:/, '').replace(/\/*$/, '')
 }
 
 function formatPublicPath(host = '', path = '') {
